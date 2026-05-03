@@ -32,7 +32,7 @@ pip3 install flask flask-cors gTTS pygame
 pip3 install vosk
 ```
 
-Just to be sure in case of vosk you can manually download module, unzip and rename folder to "module" - this folder needs to be unpacked inside venv folder.
+To be sure, for vosk you can manually download the module, unzip it and rename the folder to "module" - this folder must be unzipped in the venv folder.
 ```
 cd ~/voice_env
 wget https://alphacephei.com/vosk/models/vosk-model-small-pl-0.22.zip
